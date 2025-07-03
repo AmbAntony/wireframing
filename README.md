@@ -49,7 +49,7 @@ Interactive elements that allow users to perform actions, such as buttons, searc
 #### Why It Matters:
 Functionality transforms static layouts into interactive tools that let users achieve their goals smoothly.
 
-## Low-Fidelity vs. High-Fidelity Wireframes
+## Types of Wireframes : Low-Fidelity vs. High-Fidelity Wireframes
 The fidelity of a prototype refers to how closely it resembles the final product in terms of detail, interactivity, and functionality. Both low-fidelity and high-fidelity wireframes serve important roles at different stages of the design process.
 
 ### Low-Fidelity Wireframes

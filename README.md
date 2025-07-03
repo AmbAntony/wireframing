@@ -2,7 +2,7 @@
 ## Introduction to Wireframing
 A wireframe is a low-fidelity, skeletal representation of a user interface (UI) layout. It focuses on the overall structure, information hierarchy, and functionality without getting bogged down in visual details like color or typography. Wireframes are typically created using basic shapes, lines, and text placeholders.
 
-## Benefits of Wireframing in Software Development
+### Benefits of Wireframing in Software Development
 1. Improved Communication: Wireframes and prototypes act as a common language between designers, developers, and stakeholders, fostering clear communication and shared understanding.
 2. Early Feedback: By testing wireframes and prototypes with users early on, you can identify potential issues and iterate on designs before significant development effort is invested.
 3. Cost-Effective Iteration: It’s much easier and cheaper to make changes to a wireframe or prototype than to rework a fully developed product.

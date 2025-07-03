@@ -81,6 +81,8 @@ Detailed and polished wireframes that closely resemble the final product in desi
 2. User testing and stakeholder presentations
 3. Developer handoff (when specifying final UI details)
 
+This example https://www.figma.com/design/E2BRqdPcKkrnX6hLGPto8Z/Project-Airbnb?node-id=1-4&p=f&t=AgeIy2gjzcko5hZ9-0  shows a Low-Fidelity wireframe. It focuses on structure and content placement rather than design details or interactivity.
+
 
 
 

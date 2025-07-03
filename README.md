@@ -6,55 +6,47 @@ A wireframe is a low-fidelity, skeletal representation of a user interface (UI) 
 Here are the key elements found in a wireframe, with examples of how each contributes to the overall design:
 
 ### 1. Layout Structure
-Definition:
+#### Definition:
 The overall framework or skeletal arrangement of the page’s components—like headers, sidebars, footers, and content areas.
 
-Example Contribution:
+#### Example Contribution:
+- A three-column layout (with a sidebar on both sides and content in the center) helps distribute navigation, promotions, and primary content clearly.
+- A grid system ensures consistency and balance across all pages.
 
-A three-column layout (with a sidebar on both sides and content in the center) helps distribute navigation, promotions, and primary content clearly.
-
-A grid system ensures consistency and balance across all pages.
-
-Why It Matters:
+#### Why It Matters:
 It guides visual hierarchy, supports responsive design, and improves usability by aligning content predictably.
 
 ### 2. Navigation
-Definition:
+#### Definition:
 Menus, links, and other tools that help users move through the application or website.
 
-Example Contribution:
+#### Example Contribution:
+- A top navigation bar with categories like Home, About, Products, and Contact helps users orient themselves quickly.
+- A breadcrumb trail in a wireframe shows how deep a user is within a site’s hierarchy, aiding navigation in large content sites.
 
-A top navigation bar with categories like Home, About, Products, and Contact helps users orient themselves quickly.
-
-A breadcrumb trail in a wireframe shows how deep a user is within a site’s hierarchy, aiding navigation in large content sites.
-
-Why It Matters:
+#### Why It Matters:
 Good navigation reduces user frustration and helps users find content efficiently, enhancing overall experience.
 
 ### 3. Content Placement
-Definition:
+#### Definition:
 Where content such as text, images, videos, and calls to action are located on the page.
 
-Example Contribution:
+#### Example Contribution:
+- Hero sections (large banners at the top) for promotions or value propositions grab immediate attention.
+- Placing a sign-up form above the fold increases conversion rates.
 
-Hero sections (large banners at the top) for promotions or value propositions grab immediate attention.
-
-Placing a sign-up form above the fold increases conversion rates.
-
-Why It Matters:
+#### Why It Matters:
 Strategic placement improves readability, engagement, and conversion by guiding users to important elements.
 
 ### 4. Functionality
-Definition:
+#### Definition:
 Interactive elements that allow users to perform actions, such as buttons, search fields, forms, or sliders.
 
-Example Contribution:
+#### Example Contribution:
+- A search box placed prominently helps users find specific content quickly.
+- A filter sidebar on an e-commerce product listing page improves product discovery.
 
-A search box placed prominently helps users find specific content quickly.
-
-A filter sidebar on an e-commerce product listing page improves product discovery.
-
-Why It Matters:
+#### Why It Matters:
 Functionality transforms static layouts into interactive tools that let users achieve their goals smoothly.
 
 ## Low-Fidelity vs. High-Fidelity Wireframes
